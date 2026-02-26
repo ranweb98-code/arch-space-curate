@@ -32,7 +32,7 @@ const Index = () => {
               <Button asChild size="lg" className="rounded-none px-8 text-xs tracking-widest uppercase bg-primary-foreground text-foreground hover:bg-primary-foreground/90">
                 <Link to="/projects">View Projects</Link>
               </Button>
-              <Button asChild size="lg" variant="outline" className="rounded-none px-8 text-xs tracking-widest uppercase border-primary-foreground/30 text-primary-foreground hover:bg-primary-foreground/10">
+              <Button asChild size="lg" variant="outline" className="rounded-none px-8 text-xs tracking-widest uppercase border-primary-foreground/70 text-primary-foreground hover:bg-primary-foreground/10 bg-transparent">
                 <Link to="/contact">Contact</Link>
               </Button>
             </div>
